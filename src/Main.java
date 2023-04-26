@@ -9,6 +9,7 @@ public class Main {
 
     public static String getDurationString(int seconds) {
         if (seconds < 0) {
+            // input validation
             return "Invalid data for seconds (" + seconds + "), must be a positive integer value";
         }
             int minutes = seconds / 60;
