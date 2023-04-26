@@ -12,6 +12,7 @@ public class Main {
             // input validation
             return "Invalid data for seconds (" + seconds + "), must be a positive integer value";
         }
+        // calculate minutes
             int minutes = seconds / 60;
             return getDurationString(seconds / 60, seconds % 60);
     }
