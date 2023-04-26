@@ -17,6 +17,7 @@ public class Main {
     }
     public static String getDurationString(int minutes, int seconds) {
         if (minutes < 0) {
+            // input validation
             return "Invalid data for minutes (" + minutes + "), must be a positive integer value";
         }
 
