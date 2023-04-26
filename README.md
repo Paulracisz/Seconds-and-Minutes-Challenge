@@ -1,1 +1,0 @@
-# Seconds-and-Minutes-Challenge
