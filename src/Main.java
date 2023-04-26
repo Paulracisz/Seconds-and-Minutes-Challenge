@@ -22,6 +22,7 @@ public class Main {
         }
 
         if (seconds <= 0 || seconds >= 59) {
+            // input validation
             return "Invalid data for seconds (" + seconds + "), must be 0 and 59";
         }
         int hours = minutes / 60;
