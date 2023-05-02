@@ -1,3 +1,4 @@
+# Seconds-and-Minutes-Challenge
 Welcome to the Java Programming Masterclass project, updated to Java 17! This project is based on the Udemy course "Java Programming Masterclass for Software Developers" by Tim Buchalka, which has been updated to cover the latest version of Java - Java 17.
 
 This project contains various exercises and challenges that cover the fundamental concepts of Java programming. These exercises have been designed to help you solidify your understanding of Java concepts and prepare you for real-world Java programming tasks.
@@ -8,6 +9,6 @@ Once you have Java 17 installed, you can clone this repository and open it in yo
 
 Each package contains a set of classes, each representing a specific exercise or challenge. The classes contain detailed instructions on what you need to do to complete the exercise. You can use the provided test cases to check if your solution is correct.
 
-We highly recommend that you attempt these exercises on your own before referring to the solutions provided in the project. This will help you understand the concepts better and improve your problem-solving skills.
+I highly recommend that you attempt these exercises on your own before referring to the solutions provided in the project. This will help you understand the concepts better and improve your problem-solving skills.
 
-We hope you find this project useful in your journey to become a proficient Java programmer. If you have any questions or feedback, feel free to create an issue or pull request in the repository. Happy coding!
+I hope you find this project useful in your journey to become a proficient Java programmer. If you have any questions or feedback, feel free to create an issue or pull request in the repository. Happy coding!
